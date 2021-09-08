@@ -794,3 +794,11 @@ button {
 
 /** end footer **/
 
+
+/*---------------------------- extra css ----------------------------*/
+
+@media screen and (min-width: 720px) {
+    .header {
+        display: block;
+    }
+}

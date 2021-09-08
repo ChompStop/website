@@ -334,7 +334,6 @@ button {
 
 .text-bg {
      text-align: center;
-     margin-left:-148px;
 }
 
 .black {
@@ -771,7 +770,7 @@ button {
 }
 
 .copyright {
-     margin-top: 5px;
+     margin-top: 90px;
      padding: 20px 0px;
      background-color: #fff;
 }
@@ -794,11 +793,3 @@ button {
 
 /** end footer **/
 
-
-/*---------------------------- extra css ----------------------------*/
-
-@media screen and (max-width: 480px) {
-    .banner_main {
-        display: none;
-    }
-}

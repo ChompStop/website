@@ -6,3 +6,6 @@ title-heading: false
 
 this page is WIP.
 
+github:
+  is_project_page: false
+

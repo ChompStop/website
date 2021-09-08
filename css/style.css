@@ -798,7 +798,7 @@ button {
 /*---------------------------- extra css ----------------------------*/
 
 @media screen and (min-width: 720px) {
-    .header {
-        display: block;
+    .hbanner_main {
+        display: none;
     }
 }

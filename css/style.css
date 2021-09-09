@@ -362,16 +362,9 @@ button {
      text-align: center;
      display: inline-block;
      transition: ease-in all 0.5s;
+ border-radius: 26px;
      float: center;
 }
-
-.text-bg a:hover {
-     background-color: #232323;
-     color: #fff;
-     transition: ease-in all 0.5s;
-     border-radius: 26px;
-}
-
 .text-img figure {
      margin: 0px;
 }

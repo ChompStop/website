@@ -348,7 +348,8 @@ button {
      padding-bottom: 50px;
      text-transform: uppercase;
      font-weight: 600;
-     text-align: left;
+     text-align: center;
+     background-color:rgba(50,0,0,0.1);
 }
 
 .text-bg a {
@@ -361,7 +362,7 @@ button {
      text-align: center;
      display: inline-block;
      transition: ease-in all 0.5s;
-     float: left;
+     float: center;
 }
 
 .text-bg a:hover {

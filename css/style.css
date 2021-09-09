@@ -466,13 +466,6 @@ button {
      margin: 0 auto;
      border-radius: 85px;
      transition: ease-in all 0.1s;
-     cursor: pointer;
-}
-
-.we_do_box i:hover {
-     width: 140px;
-     height: 140px;
-     transition: ease-in all 0.2s;
 }
 
 .we_do_box {
